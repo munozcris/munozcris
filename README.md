@@ -1,10 +1,27 @@
-# 👋 ¡Hola! Soy Cristian Muñoz
+<img src="perfil.jpg" 
+     alt="Foto de perfil" 
+     style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;">
+<h1 align="center"> 👋 ¡Hola! Soy Cristian Muñoz</h1>
+
+<p align="center">
+  <a href="https://github.com/munozcris">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/cristian-mu%C3%B1oz-256136191/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:munozcris0719@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://discordapp.com/users/cris0911">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
 
 ### 💻 Analista Programador Universitario | 🎓 Estudiante de Licenciatura en Informática Educativa
 
 Soy **Analista Programador Universitario** y actualmente estudiante de la **Licenciatura en Informática Educativa**.
 
-Me apasiona la tecnología, la programación y la educación, especialmente la manera en que las herramientas digitales y la Inteligencia Artificial pueden contribuir a mejorar los procesos de enseñanza y aprendizaje.
+Me apasiona la tecnología y la programación, especialmente la manera en que las herramientas digitales y la Inteligencia Artificial pueden contribuir a mejorar los procesos de enseñanza y aprendizaje.
 
 ---
 
@@ -16,7 +33,8 @@ Me apasiona la tecnología, la programación y la educación, especialmente la m
 - 🧠 Interesado en Inteligencia Artificial aplicada a la educación
 - 🎓 Interesado en tecnología educativa e innovación
 - 📖 En constante aprendizaje y formación
-- 🔍 Me interesa combinar programación, informática y educación para desarrollar soluciones útiles
+- 🎮 Me interesan los videojuegos y la tecnología de los juegos. Actualmente estoy jugando a God of War Ragnarok.
+- 📺 En mis tiempos libres me gusta mirar peliculas y series. Actualmente estoy viendo la serie de House of the Dragon.
 
 ---
 
@@ -47,26 +65,6 @@ Me apasiona la tecnología, la programación y la educación, especialmente la m
 
 ---
 
-## 📌 Proyectos
-
-### 🧮 Calculadora Científica Web
-
-Proyecto desarrollado utilizando:
-
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-
-El objetivo es desarrollar una calculadora científica web como recurso tecnológico aplicado al aprendizaje de Matemática.
-
----
-
-### 🤖 Inteligencia Artificial y Educación
-
-Uno de mis principales intereses actuales es investigar y analizar el uso de la **Inteligencia Artificial en la planificación docente**, especialmente en relación con el **Diseño Universal para el Aprendizaje (DUA)**.
-
----
 
 ## 🌱 Actualmente
 
@@ -82,20 +80,5 @@ Busco seguir creciendo profesionalmente y desarrollar soluciones que integren **
 
 ---
 
-## 💡 Mi enfoque
-
-> **"La tecnología no solo permite crear software; también puede transformar la manera en que enseñamos y aprendemos."**
-
----
-
-## 📫 Contacto
-
-📧 **Email:** [Tu email]
-
-💼 **LinkedIn:** [Tu LinkedIn]
-
-🌐 **Portfolio:** [Tu portfolio]
-
----
 
 ⭐ Gracias por visitar mi perfil.
